@@ -26,15 +26,22 @@ password: tapu@123
 <br/>
 
 <u><h4>Admin Views</h4><u/>
-![image](https://github.com/user-attachments/assets/72b21316-d070-4180-bdbe-362c055e3e94)</br>
-![image](https://github.com/user-attachments/assets/795e2816-a722-487d-81e3-7e27710778ef)</br>
-![image](https://github.com/user-attachments/assets/7d293daa-09f4-47b2-ac23-a24f4ca9394f)</br>
-![image](https://github.com/user-attachments/assets/afb7c963-e1e6-494a-95ab-511db00a1eee)</br>
-![image](https://github.com/user-attachments/assets/551d8c47-736a-44ef-81c3-94d24ba6f557)</br>
+![Screenshot 2024-12-09 123045](https://github.com/user-attachments/assets/59c13b1c-2271-45d9-9499-f4e70b0df180)
+</br>
+![Screenshot 2024-12-09 123102](https://github.com/user-attachments/assets/11c6fc1e-0d73-4ed2-9f84-5ea5fdb11f45)
+</br>
+![Screenshot 2024-12-09 123119](https://github.com/user-attachments/assets/aa2f3594-0dd0-4787-98aa-f90c97345119)
+</br>
+![Screenshot 2024-12-09 123135](https://github.com/user-attachments/assets/ffd8a9e9-41e2-4003-bd30-6ff772d761f8)
+</br>
+![Screenshot 2024-12-09 123202](https://github.com/user-attachments/assets/cd30d94a-2b6e-4361-9d64-191c8ec387fe)
+</br>
 <u><h4>Student Views</h4></u>
-![image](https://github.com/user-attachments/assets/8498c69c-4580-427c-b74a-fe75b1248d10)</br>
-![image](https://github.com/user-attachments/assets/c0fd84f0-5b94-4739-8260-8ea27c486745)</br>
-![image](https://github.com/user-attachments/assets/29ef5701-b722-454d-8baa-eac9b7072125)
+![Screenshot 2024-12-09 123443](https://github.com/user-attachments/assets/8b4d4efc-d5f7-42ea-8a3d-878b403ddfbe)
+</br>
+![Screenshot 2024-12-09 123235](https://github.com/user-attachments/assets/4f53e468-fb6a-43ca-a290-8f849907933b)
+</br>
+![Screenshot 2024-12-09 123336](https://github.com/user-attachments/assets/7f8725a5-61d6-4033-ad2a-18604643d843)
 
 
 
